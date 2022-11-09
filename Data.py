@@ -29,25 +29,25 @@ Send /help Visit My Help Menu
 
 🤩 New OS ✓
 
-🚀Powerd By @EmoBotDevolopers
+🚀Powerd By @Riwvan_x
 
     """
 
     # Home Button
     home_buttons = [
         [InlineKeyboardButton(text="🏛️ Return Home 🏛️", callback_data="home")],
-        [InlineKeyboardButton("☣ Emo Bot Devolopers ☣", url="https://t.me/EmoBotDevolopers")],
+        [InlineKeyboardButton("☣ Emo Bot Devolopers ☣", url="https://t.me/groupmoviex")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🪄Demo Bot", url="https://t.me/ImRishmika_Bot")],
+        [InlineKeyboardButton("🪄Demo Bot", url="https://t.me/groupmoviex")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("♾️ About ♾️", callback_data="about")
         ],
-        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/ImRishmika")],
-        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/KatszukiSupport")],
+        [InlineKeyboardButton("👨‍💻 Devoloper 👨‍💻", url="https://t.me/Riwvan_x")],
+        [InlineKeyboardButton("💬 Support 💬", url="https://t.me/groupmoviex")],
     ]
 
     # Help Message
@@ -75,22 +75,22 @@ Example : `/fsub -1001742371821` or `/forcesubscribe -1001742371821`
 
 **Note** - You can also use `/forcesubscribe` instead of `/fsub`
 
-Powerd By [Emo Network](t.me/EmoBotDevolopers)
+Powerd By [ Network](https://t.me/groupmoviex)
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-A Telegram Force Subscribing Bot by @ImRishmika
+A Telegram Force Subscribing Bot by @groupmoviex
 
-🪄Powerd By : @EmoBotDevolopers
+🪄Powerd By : @Riwvan_x
 
 🍁Framework : [Pyrogram](docs.pyrogram.org)
 
 🍁Language : [Python](www.python.org)
 
-🍁Developer : @ImRishmika
+🍁Developer : @Riwvan_x
 
 🖥️Host Sever : Heroku
     """
