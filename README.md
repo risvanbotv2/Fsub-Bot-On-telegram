@@ -4,7 +4,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com//RishBropromax/Fsub-Bott"><img src="https://telegra.ph/file/0c8f543399c4b89cf8278.jpg" width="500"></a></p>
+<p align="center"><a href="Fsub-Bot-On-telegram"><img src=
 
 Telegram bot to force users to subscribe a particular chat.
 
@@ -24,7 +24,7 @@ Telegram bot to force users to subscribe a particular chat.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/RishBroProMax/Fsub-Bot
+   git clone Fsub-Bot-On-telegram
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -58,15 +58,15 @@ Telegram bot to force users to subscribe a particular chat.
 
 > That's on you mainly...
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome]
 
 ## Credits
 
-- [RishBroProMax](https://github.com/RishBroProMax) `Me`
+- [RishBroProMax](https://github.com/Fsub-Bot-On-telegram) `Me`
 
 
 ## Support
 
-Channel :- [Emo Bot Devolopers](https://t.me/Android_Mood_settings
+Channel :- [Fsub-Bot-On-telegram](https://t.me/Android_Mood_settings
 
-Group Chat :- [Emo Bots Support](https://t.me/Android_Mood_settings)
+Group Chat :- [Fsub-Bot-On-telegram](https://t.me/Android_Mood_settings)
