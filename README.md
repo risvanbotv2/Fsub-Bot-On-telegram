@@ -1,6 +1,6 @@
 # Force Subscribing Bot 
 
-> Start Demo Bot [Fsub Bot](https://t.me/emFsub_Bot)
+> Start Demo Bot [Fsub Bot](https://t.me/Android_Mood_settings)
 
 > A star ⭐ from you means a lot to us!
 
@@ -67,6 +67,6 @@ Telegram bot to force users to subscribe a particular chat.
 
 ## Support
 
-Channel :- [Emo Bot Devolopers](https://t.me/EmoBotDevolopers
+Channel :- [Emo Bot Devolopers](https://t.me/Android_Mood_settings
 
-Group Chat :- [Emo Bots Support](https://t.me/EmoBotSupport)
+Group Chat :- [Emo Bots Support](https://t.me/Android_Mood_settings)
